@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/degiskenler.deps.json
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/degiskenler.dll
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/ref/degiskenler.dll
+/Users/thenuba/Desktop/DENEME/degiskenler/bin/Debug/net5.0/degiskenler.pdb
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.dll
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/ref/degiskenler.dll
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.pdb
+/Users/thenuba/Desktop/DENEME/degiskenler/obj/Debug/net5.0/degiskenler.genruntimeconfig.cache
