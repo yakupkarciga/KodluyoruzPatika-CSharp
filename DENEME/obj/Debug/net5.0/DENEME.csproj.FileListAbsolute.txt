@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/DENEME.deps.json
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/DENEME.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/DENEME.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/DENEME.dll
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/ref/DENEME.dll
+/Users/thenuba/Desktop/DENEME/bin/Debug/net5.0/DENEME.pdb
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.dll
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/ref/DENEME.dll
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.pdb
+/Users/thenuba/Desktop/DENEME/obj/Debug/net5.0/DENEME.genruntimeconfig.cache
