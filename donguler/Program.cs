@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace donguler
 {
@@ -6,6 +6,7 @@ namespace donguler
     {
         public static void Main(string[] args)
         {
+            /*
             Console.Write("Bir sayı giriniz: ");
             int sayac = int.Parse(Console.ReadLine());
             for (int i = 1; i <= sayac; i++)
@@ -49,6 +50,34 @@ namespace donguler
                 {
                     continue;
                 }
+                Console.WriteLine(i);
+            }
+            */
+
+            // ****************************************************************
+            Console.Write("Bir sayı giriniz: ");
+            int sayi = int.Parse(Console.ReadLine());
+            int sayac = 1;
+            int toplam = 0;
+            while (sayac <= sayi)
+            {
+                toplam += sayac;
+                sayac++;
+            }
+            Console.WriteLine("Ortalama: " + toplam / sayi);
+
+            //****************************************************************
+            char character = 'a';
+            while (character <= 'z')
+            {
+                Console.Write(character + ",");
+                character++;
+            }
+
+            // ****************************************************************
+            string[] arabalar = { "BMW", "Mercedes", "Audi", "Nissan" };
+            foreach (var i in arabalar)
+            {
                 Console.WriteLine(i);
             }
         }
