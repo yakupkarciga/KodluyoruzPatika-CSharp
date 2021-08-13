@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/thenuba/Desktop/DENEME/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/thenuba/Desktop/DENEME/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
