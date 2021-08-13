@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
 namespace operatorler
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             // atama ve islemli atama
             int x = 3;
@@ -73,6 +73,7 @@ namespace operatorler
 
             int sonuc2 = 20 % 3;
             Console.WriteLine(sonuc2);
+
         }
     }
 }
