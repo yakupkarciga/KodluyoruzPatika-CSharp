@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/donguler.deps.json
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/donguler.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/donguler.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/donguler.dll
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/ref/donguler.dll
+/Users/thenuba/Desktop/DENEME/donguler/bin/Debug/net5.0/donguler.pdb
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.dll
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/ref/donguler.dll
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.pdb
+/Users/thenuba/Desktop/DENEME/donguler/obj/Debug/net5.0/donguler.genruntimeconfig.cache
