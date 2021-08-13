@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/hatayonetimi.deps.json
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/hatayonetimi.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/hatayonetimi.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/hatayonetimi.dll
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/ref/hatayonetimi.dll
+/Users/thenuba/Desktop/DENEME/hatayonetimi/bin/Debug/net5.0/hatayonetimi.pdb
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.dll
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/ref/hatayonetimi.dll
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.pdb
+/Users/thenuba/Desktop/DENEME/hatayonetimi/obj/Debug/net5.0/hatayonetimi.genruntimeconfig.cache
