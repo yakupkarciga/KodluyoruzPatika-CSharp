@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/tipdonusumleri.deps.json
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/tipdonusumleri.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/tipdonusumleri.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/tipdonusumleri.dll
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/ref/tipdonusumleri.dll
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/bin/Debug/net5.0/tipdonusumleri.pdb
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.dll
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/ref/tipdonusumleri.dll
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.pdb
+/Users/thenuba/Desktop/DENEME/tipdonusumleri/obj/Debug/net5.0/tipdonusumleri.genruntimeconfig.cache
