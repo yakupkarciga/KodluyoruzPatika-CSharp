@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/if-else.deps.json
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/if-else.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/if-else.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/if-else.dll
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/ref/if-else.dll
+/Users/thenuba/Desktop/DENEME/if-else/bin/Debug/net5.0/if-else.pdb
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.dll
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/ref/if-else.dll
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.pdb
+/Users/thenuba/Desktop/DENEME/if-else/obj/Debug/net5.0/if-else.genruntimeconfig.cache
