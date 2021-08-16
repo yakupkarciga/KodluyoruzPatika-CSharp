@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/recursive-fonksiyonlar.deps.json
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/recursive-fonksiyonlar.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/recursive-fonksiyonlar.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/recursive-fonksiyonlar.dll
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/ref/recursive-fonksiyonlar.dll
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/bin/Debug/net5.0/recursive-fonksiyonlar.pdb
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.dll
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/ref/recursive-fonksiyonlar.dll
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.pdb
+/Users/thenuba/Desktop/DENEME/recursive-fonksiyonlar/obj/Debug/net5.0/recursive-fonksiyonlar.genruntimeconfig.cache
