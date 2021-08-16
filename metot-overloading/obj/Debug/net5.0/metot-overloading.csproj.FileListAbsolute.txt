@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/metot-overloading.deps.json
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/metot-overloading.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/metot-overloading.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/metot-overloading.dll
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/ref/metot-overloading.dll
+/Users/thenuba/Desktop/DENEME/metot-overloading/bin/Debug/net5.0/metot-overloading.pdb
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.dll
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/ref/metot-overloading.dll
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.pdb
+/Users/thenuba/Desktop/DENEME/metot-overloading/obj/Debug/net5.0/metot-overloading.genruntimeconfig.cache
