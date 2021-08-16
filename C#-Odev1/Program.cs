@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace C__Odev1
 {
@@ -6,6 +6,7 @@ namespace C__Odev1
     {
         static void Main(string[] args)
         {
+            // C# 101 Ödev-1 (Daha sonra tamamlanacaktır)
             Console.WriteLine("Kaç adet sayı girmek istersiniz ?: ");
             int input = Convert.ToInt32(Console.ReadLine());
 
