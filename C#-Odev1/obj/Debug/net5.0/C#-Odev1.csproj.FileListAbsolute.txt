@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.AssemblyInfo.cs
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/C#-Odev1.deps.json
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/C#-Odev1.runtimeconfig.json
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/C#-Odev1.runtimeconfig.dev.json
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/C#-Odev1.dll
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/ref/C#-Odev1.dll
+/Users/thenuba/Desktop/C#-Odev1/bin/Debug/net5.0/C#-Odev1.pdb
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.dll
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/ref/C#-Odev1.dll
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.pdb
+/Users/thenuba/Desktop/C#-Odev1/obj/Debug/net5.0/C#-Odev1.genruntimeconfig.cache
