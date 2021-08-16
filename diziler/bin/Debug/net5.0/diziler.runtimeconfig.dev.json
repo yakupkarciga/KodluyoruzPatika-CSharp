@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/thenuba/.dotnet/store/|arch|/|tfm|",
-      "/Users/thenuba/.nuget/packages"
-    ]
-  }
-}
