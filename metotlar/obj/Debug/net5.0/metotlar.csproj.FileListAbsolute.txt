@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/metotlar.deps.json
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/metotlar.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/metotlar.dll
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/ref/metotlar.dll
+/Users/thenuba/Desktop/DENEME/metotlar/bin/Debug/net5.0/metotlar.pdb
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.dll
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/ref/metotlar.dll
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.pdb
+/Users/thenuba/Desktop/DENEME/metotlar/obj/Debug/net5.0/metotlar.genruntimeconfig.cache
