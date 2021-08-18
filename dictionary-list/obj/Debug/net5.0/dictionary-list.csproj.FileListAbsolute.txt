@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/dictionary-list.deps.json
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/dictionary-list.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/dictionary-list.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/dictionary-list.dll
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/ref/dictionary-list.dll
+/Users/thenuba/Desktop/DENEME/dictionary-list/bin/Debug/net5.0/dictionary-list.pdb
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.dll
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/ref/dictionary-list.dll
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.pdb
+/Users/thenuba/Desktop/DENEME/dictionary-list/obj/Debug/net5.0/dictionary-list.genruntimeconfig.cache
