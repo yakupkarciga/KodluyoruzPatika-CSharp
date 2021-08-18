@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/array-list.deps.json
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/array-list.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/array-list.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/array-list.dll
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/ref/array-list.dll
+/Users/thenuba/Desktop/DENEME/array-list/bin/Debug/net5.0/array-list.pdb
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.dll
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/ref/array-list.dll
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.pdb
+/Users/thenuba/Desktop/DENEME/array-list/obj/Debug/net5.0/array-list.genruntimeconfig.cache
