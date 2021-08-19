@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/Users/thenuba/Desktop/DENEME/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/Users/thenuba/Desktop/DENEME/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache
