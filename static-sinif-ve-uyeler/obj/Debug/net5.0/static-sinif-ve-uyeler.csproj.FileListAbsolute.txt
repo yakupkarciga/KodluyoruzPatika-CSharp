@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.deps.json
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.dll
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/bin/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.dll
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/ref/static-sinif-ve-uyeler.dll
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.pdb
+/Users/thenuba/Desktop/DENEME/static-sinif-ve-uyeler/obj/Debug/net5.0/static-sinif-ve-uyeler.genruntimeconfig.cache
