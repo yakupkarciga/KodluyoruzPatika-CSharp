@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/interfaces.deps.json
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/interfaces.dll
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/ref/interfaces.dll
+/Users/thenuba/Desktop/DENEME/interfaces/bin/Debug/net5.0/interfaces.pdb
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.dll
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/ref/interfaces.dll
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.pdb
+/Users/thenuba/Desktop/DENEME/interfaces/obj/Debug/net5.0/interfaces.genruntimeconfig.cache
