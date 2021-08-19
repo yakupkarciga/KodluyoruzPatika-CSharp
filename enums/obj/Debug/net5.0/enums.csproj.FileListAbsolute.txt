@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/enums.deps.json
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/enums.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/enums.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/enums.dll
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/ref/enums.dll
+/Users/thenuba/Desktop/DENEME/enums/bin/Debug/net5.0/enums.pdb
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.dll
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/ref/enums.dll
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.pdb
+/Users/thenuba/Desktop/DENEME/enums/obj/Debug/net5.0/enums.genruntimeconfig.cache
