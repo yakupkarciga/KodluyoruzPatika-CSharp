@@ -1,0 +1,15 @@
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.deps.json
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.json
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.runtimeconfig.dev.json
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.dll
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/ref/kurucu-metotlar.dll
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/bin/Debug/net5.0/kurucu-metotlar.pdb
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.AssemblyReference.cache
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfoInputs.cache
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.AssemblyInfo.cs
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.csproj.CoreCompileInputs.cache
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.dll
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/ref/kurucu-metotlar.dll
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.pdb
+/Users/thenuba/Desktop/DENEME/kurucu-metotlar/obj/Debug/net5.0/kurucu-metotlar.genruntimeconfig.cache
